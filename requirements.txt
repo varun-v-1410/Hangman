@@ -1,0 +1,16 @@
+hangman@1.0.0 D:\React Native\Hangman
+├── @babel/core@7.23.3
+├── @react-native-async-storage/async-storage@1.18.2
+├── @react-native-masked-view/masked-view@0.2.9
+├── @react-navigation/stack@6.3.20
+├── expo-asset@8.10.1
+├── expo-font@11.4.0
+├── expo-splash-screen@0.20.5
+├── expo-status-bar@1.6.0
+├── expo@49.0.20
+├── react-native-animatable@1.4.0
+├── react-native-gesture-handler@2.12.1
+├── react-native-svg@13.9.0
+├── react-native@0.72.6
+└── react@18.2.0
+

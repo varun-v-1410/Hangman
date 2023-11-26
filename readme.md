@@ -1,0 +1,10 @@
+# **Hangman**
+<img src="./mockups/two-standing-smartphones-mockup-transparent.png" width=300><br>
+<img src="./mockups/white-blank-screens-mockup-transparent.png" width=300><br>
+### **One of the most popular games we played as kids🧒 was Hangman. Whenever we have free time, let's spend it with our cousins or friends 🤝, one of the first games that came to mind was hangman. In fact, this was one of the games/activities with word-related topics of a subject to go when the teachers thought of a fun activity to conduct in class while keeping the silence and decorum of the room.**
+
+## **Requirements**
+### **<li><a href="https://nodejs.org/en">NodeJS</a></li><li><a href="https://docs.expo.dev/">Expo</a></li>**
+
+## How to Setup**
+### **1. Run the following command at your desired project root location after installing NodeJS<br>```npx create-expo-app Hangman```<br>2. Navigate to `Hangman` folder<br>```cd Hangman```<br>3. Install the required packages<br>```npx expo install @react-native-async-storage/async-storage```<br>```npx expo install @react-native-masked-view/masked-view```<br>```npx expo install @react-navigation/stack```<br>```npx expo install expo-asset```<br>``` npx expo install expo-font```<br>```npx expo install expo-splash-screen```<br>```npx expo install expo-status-bar```<br>```npx expo install react-native-animatable```<br>```npx expo install react-native-gesture-handler```<br>```npx expo install react-native-svg```<br>4. Dowload the zip file of <a href="">Hangman</a> github repository<br>5. Unzip the downloaded file at any location expect the project root folder<br>6. Copy all files and folders from the extracted folder(folder 'mockups' and file 'requirements.txt' is opyional) and paste it in your project folder 'Hangman'. If 'File name already exits' error occured then click on replace files.<br>7. Now open terminal at the project folder 'Hangman' location and run the expo project.<br>You can run the expo project by running the following command<br>```npx expo run```<br>refer <a href="https://docs.expo.dev/tutorial/create-your-first-app/#run-the-app-on-mobile-and-web">Run the app on mobile and web</a>
