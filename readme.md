@@ -1,6 +1,6 @@
 # **Hangman**
-<img src="https://github.com/varun-v-1410/Hangman/blob/main/mockups/two-standing-smartphones-mockup-transparent.png" width=300><br>
-<img src="https://github.com/varun-v-1410/Hangman/blob/main/mockups/white-blank-screens-mockup-transparent.png" width=300><br>
+![img1](https://github.com/varun-v-1410/Hangman/blob/main/mockups/two-standing-smartphones-mockup-transparent.png)<br>
+![img2](https://github.com/varun-v-1410/Hangman/blob/main/mockups/white-blank-screens-mockup-transparent.png)<br>
 ### **One of the most popular games we played as kids🧒 was Hangman. Whenever we have free time, let's spend it with our cousins or friends 🤝, one of the first games that came to mind was hangman. In fact, this was one of the games/activities with word-related topics of a subject to go when the teachers thought of a fun activity to conduct in class while keeping the silence and decorum of the room.**
 
 ## **Requirements**
