@@ -1,0 +1,204 @@
+{
+    "levels":{
+        "1":{
+            "Problem": "The mice eaters",
+            "Hint": "Starts with C",
+            "Ans": "CAT"
+        },
+        "2":{
+            "Problem": "Opposite of above",
+            "Hint": "Starts with B and ends with W",
+            "Ans": "BELOW"
+        },
+        "3":{
+            "Problem": "A nutrient-rich liquid food produced by the mammary glands of mammals",
+            "Hint": "Starts with M",
+            "Ans":"MILK"
+        },
+        "4":{
+            "Problem": "Satellite of Earth",
+            "Hint": "Starts with M",
+            "Ans": "MOON"
+        },
+        "5":{
+            "Problem": "King of the jungle",
+            "Hint": "Starts with L",
+            "Ans": "LION"
+        },
+        "6":{
+            "Problem": "Opposite of beautiful",
+            "Hint":"Starts with U",
+            "Ans": "UGLY"
+        },
+        "7":{
+            "Problem": "National bird of India",
+            "Hint": "Starts with P and ends with K",
+            "Ans": "PEACOCK"
+        },
+        "8":{
+            "Problem": "Opposite of dark",
+            "Hint": "The natural agent that stimulates sight and makes things visible",
+            "Ans": "LIGHT"
+        },
+        "9":{
+            "Problem": "Causing laughter or amusement",
+            "Hint": "Starts with F and ends with Y",
+            "Ans": "FUNNY"
+        },
+        "10":{
+            "Problem": "Largest planet in solar system",
+            "Hint":"Starts with J and ends with R",
+            "Ans": "JUPITER"
+        },
+        "11":{
+            "Problem": "Opposite of dead",
+            "Hint": "Starts with A",
+            "Ans": "ALIVE"
+        },
+        "12":{
+            "Problem": "Country with naional anthem 'Jana Gana Mana'",
+            "Hint": "This country is also called Hindustan",
+            "Ans": "INDIA"
+        },
+        "13":{
+            "Problem": "Who developed numbers based on letters of the alphabet",
+            "Hint":"Starts with G",
+            "Ans":"GREEKS"
+        },
+        "14":{
+            "Problem": "The mammal which sleeps for 22 hours a day",
+            "Hint":"Starts with K and ends with A",
+            "Ans": "KOALA"
+        },
+        "15":{
+            "Problem": "National game of India",
+            "Hint": "Starts with H and ends with Y",
+            "Ans": "HOCKEY"
+        },
+        "16":{
+            "Problem": "Name of the dog which went into space in Sputink-2",
+            "Hint": "Starts with L",
+            "Ans": "LAIKA"
+        },
+        "17":{
+            "Problem": "In which field of science has Einstein had major impact",
+            "Hint": "Starts with P",
+            "Ans": "PHYSICS"
+        },
+        "18":{
+            "Problem": "Opposite of export",
+            "Hint": "Starts with I",
+            "Ans": "IMPORT"
+        },
+        "19":{
+            "Problem": "Picture composed of a variety of mterials pasted on to a surface",
+            "Hint": "Starts with C",
+            "Ans": "COLLAGE"
+        },
+        "20":{
+            "Problem": "Capital of South Korea",
+            "Hint":"Starts with S and ends with L",
+            "Ans": "SEOUL"
+        },
+        "21":{
+            "Problem": "National game of Australia",
+            "Hint": "Starts with C",
+            "Ans": "CRICKET"
+        },
+        "22":{
+            "Problem": "First mathematician of India",
+            "Hint": "Inventor of zero",
+            "Ans": "ARYABHATTA"
+        },
+        "23":{
+            "Problem": "National flower of India",
+            "Hint": "Starts with L",
+            "Ans": "LOTUS"
+        },
+        "24":{
+            "Problem": "Where is the days and nights equal",
+            "Hint": "A corresponding line on a planet or other body",
+            "Ans":"EQUATOR"
+        },
+        "25":{
+            "Problem": "Kidney is an example of",
+            "Hint":"Starts with O",
+            "Ans": "ORGAN"
+        },
+        "26":{
+            "Problem": "Lightning conductors are made up of",
+            "Hint": "It is a good conductor of electricity",
+            "Ans": "COPPER"
+        },
+        "27":{
+            "Problem": "5th to 6th centuries AD old 'Elephant caves' located in which state of India",
+            "Hint": "Main language of the state is Marathi",
+            "Ans": "MAHARASHTRA"
+        },
+        "28":{
+            "Problem": "Opposte of full",
+            "Hint": "It even means containing nothing",
+            "Ans": "EMPTY"
+        },
+        "29":{
+            "Problem": "Which synthetic fibre is known as artificial silk",
+            "Hint": "Starts with R",
+            "Ans": "RAYON"
+        },
+        "30":{
+            "Problem": "Which is the first calculating device",
+            "Hint": "Starts with A",
+            "Ans": "ABACUS"
+        },
+        "31":{
+            "Problem": "What is the name of the software that allows us to browse the internet",
+            "Hint": "Starts with B",
+            "Ans": "BROWSER"
+        },
+        "32":{
+            "Problem": "What is the name of the process when the operating sytem runs",
+            "Hint": "Starts with B and ends with G",
+            "Ans": "BOOTING"
+        },
+        "33":{
+            "Problem": "A word for expressing astonishment or admiration",
+            "Hint": "It's a palindrome",
+            "Ans": "WOW"
+        },
+        "34":{
+            "Problem": "'Ice Hockey' is the national sport of which country",
+            "Hint": "It is also kown as land of cakes",
+            "Ans": "SCOTLAND"
+        },
+        "35":{
+            "Problem": "Which festival is celebrated in India as festival of colours",
+            "Hint": "Starts with H",
+            "Ans": "HOLI"
+        },
+        "36":{
+            "Problem": "What is the natinal heritage animmal of India",
+            "Hint": "This animmal is killed the most for their tusks",
+            "Ans": "ELEPHANT"
+        },
+        "37":{
+            "Problem": "In which state of India is the International kite festival celebrated",
+            "Hint": "This country has India's largest coastline",
+            "Ans": "GUJARAT"
+        },
+        "38":{
+            "Problem": "Tripitakas are sacred book of",
+            "Hint": "They are the followers of Buddha",
+            "Ans": "BUDDHISTS"
+        },
+        "39":{
+            "Problem": "Gautama Buddha was born in which country",
+            "Hint": "Starts with N",
+            "Ans": "NEPAL"
+        },
+        "40":{
+            "Problem": "The first ever Pan India movie was create in which language",
+            "Hint": "Lot of people pronounce name of this language as 'Kannad'. Don't forget to add 'a' while writing solution",
+            "Ans": "KANNADA"
+        }
+    }
+}
