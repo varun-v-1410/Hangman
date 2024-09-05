@@ -1,4 +1,4 @@
-//This JS file acts as a tag to create inputbox
+//This file acts as a tag to create inputbox
 // Impot all the required tags and modules
 import React from "react";
 import {StyleSheet,View,Text} from "react-native"
@@ -14,7 +14,6 @@ export default function InputBox({answer, correctletters}){
                         <Text key={index} style={styles.text}>{correctletters.includes(letter) ? letter : '-'}</Text>
                     );
                 })
-                
             }
         </View>
     );
